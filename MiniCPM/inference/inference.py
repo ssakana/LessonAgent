@@ -6,7 +6,6 @@ import torch
 
 
 model_path = 'openbmb/MiniCPM-2B-sft-bf16'
-model_path = '/home/mio/here/model/MiniCPM-2B-sft-bf16'
 
 
 if __name__ == '__main__':
